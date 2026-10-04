@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "survivalworld-dRNF.aternos.me",
-    "port": 44019,
+    "ip": "SchoolFriend.aternos.me",
+    "port": 22378,
     "version": "",
     "try-creative": false
   },
